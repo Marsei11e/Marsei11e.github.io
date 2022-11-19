@@ -1,0 +1,29 @@
+body {
+    position: absolute;
+    right: 30%;
+}
+body{
+    background: url(https://i.pinimg.com/originals/76/a6/c6/76a6c6515947b290b00bc2efd3f00833.png)
+}
+table td{
+    color:white;
+    background-position: left;
+}
+tr:nth-child(2) {
+    background-color: darkolivegreen;
+}
+
+tr:nth-child(6) {
+    background-color: darkolivegreen;
+}
+img:hover {
+    outline: 3px double greenyellow;
+}
+
+td{
+    padding: 10px;
+}
+
+h2 {
+    color: aliceblue;
+}
