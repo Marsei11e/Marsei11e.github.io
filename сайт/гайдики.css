@@ -1,0 +1,24 @@
+html, body, .container {
+    height:100%;
+    width: 100%;
+}
+
+
+body{
+    background-color: rgb(24, 24, 24);
+}
+
+p {
+    color:aliceblue;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.46);
+}
+
+b{
+    font-size: larger;
+    color: blueviolet;
+}

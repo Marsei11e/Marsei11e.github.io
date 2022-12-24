@@ -1,0 +1,47 @@
+html, body, .container {
+    height:100%;
+    width: 100%;
+}
+
+body{
+    background-color: rgb(21, 21, 21);
+}
+
+.megatext {
+    font-family: Georgia, 'fantasy';
+    font-size: 300%;
+}
+
+.bigtext {
+    font-size: 200%;
+}
+
+
+p {
+    color: aliceblue;
+}
+
+.text {
+    font-size: larger;
+}
+
+.link {
+    font-style: italic;
+    color: rgb(255, 0, 0);   
+}
+
+.main {
+    text-decoration: none;
+    color:rgba(255, 255, 255, 0.46);
+}
+
+.feedback, h1 {
+    display: flex;
+    flex-direction:center;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+}
+
